@@ -100,7 +100,7 @@ client.on("ready", () => {
 if(message.content.includes("@everyone")){
 if(!message.member.hasPermission('KICK_MEMBERS')){
 message.delete(); 
-message.reply("ئێڤری وەن لێمەدە بابی بابم")
+message.reply("خۆت سوک کرد وللە بە شتەکم دانابوی بەس نەم زانی ئاوا سوک و چروکی")
 }
  
 }

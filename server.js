@@ -115,7 +115,6 @@ if(!message.member.hasPermission('KICK_MEMBERS')){
 message.delete(); 
 message.reply("شتی وا هەیە ئێڤری وەن لێدەی ")
 }
- 
 }
  
 });                        
@@ -124,4 +123,4 @@ message.reply("شتی وا هەیە ئێڤری وەن لێدەی ")
 
 
 
-client.login('NzM1MjQ1Mzg1NjcyNjg3NzE5.XxdcoA.2B6T4M-rQOOzeLYjNbpoVCIGdhs');
+client.login('token.XxdcoA.2B6T4M-rQOOzeL');

@@ -123,4 +123,4 @@ message.reply("شتی وا هەیە ئێڤری وەن لێدەی ")
 
 
 
-client.login('token.XxdcoA.2B6T4M-rQOOzeL');
+client.login('token');

@@ -61,18 +61,6 @@ client.on("ready", () => {
 });
 
 
-client.on("ready", () => {
-  
-  let statuses = [`viper up`,`zana up`,`creat by zanaq k majed`]
- 
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    client.user.setActivity(STREAMING, {
-      type: "STREAMING",
-      url: "https://www.twitch.tv/CAMPERpaywand"
-    });
-  }, 2000);
-});
 
 
 
